@@ -8,4 +8,4 @@ Front End GUI: Tkinter GUI, Figma and canva.
 
 
 
-This app was developed as a mini project as part of the course, Python for Computational Problem Solving (UE22CS101)
+This app was developed as a mini project as part of the course, Python for Computational Problem Solving (UE22CS101) by PES2UG22CS361 and PES2UG22CS381.
